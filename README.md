@@ -4,7 +4,7 @@ My playground for exploring cortical E-I interaction via computational methods.
 
 ## Motivation
 
-I am wondering how E-I induced neural oscillation helps information processing and whether such mechanim can be applied to machine learning systems.
+I am wondering how EI-induced neural oscillation helps information processing and whether such mechanism can be applied to machine learning systems.
 
 <p align="center">
   <img src="./assets/fig1.png" alt="Figure 1" width="100%">

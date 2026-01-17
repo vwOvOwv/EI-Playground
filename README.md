@@ -10,7 +10,4 @@ I am wondering how EI-induced neural oscillation helps information processing an
   <img src="./assets/fig1.png" alt="Figure 1" width="100%">
 </p>
 
-
-But during this process, I find myself know little about concepts and methods in computational neuroscience. So I made this repo public to push myself to learn it more :)
-
-Hope u will also find it interesting!
+Hope you will also find it interesting!
